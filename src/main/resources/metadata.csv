@@ -1,0 +1,6 @@
+Student,gpa,java.lang.Integer,False,xgpaphone,octree,0,20
+Student,x,java.lang.Integer,False,xgpaphone,octree,0,10
+Student,phone,java.lang.Integer,False,xgpaphone,octree,0,40
+Student,name,java.lang.String,False,null,null,a,z
+Student,Date of Birth,java.util.Date,False,null,null,1999-01-01,2050-12-31
+Student,id,java.lang.Integer,True,null,null,0,100
